@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="QuellGTA_GetJVP/QuellGTA_GetJVP.vcxproj" Id="32d780be-557b-46ea-b5a6-3621732949c5" />
+</Solution>
